@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<FirstName>John</FirstName>
+		<MiddleInit> M</MiddleInit>
+		<LastName> Smith</LastName>
+		<StudentID>000234567</StudentID>
+		<Mailing> 123 Lakeview Ave</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70601</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.2</GPA>
+		<Major>Electrical Engineering</Major>
+		<Graduation> 05/2027</Graduation>
+		<Phone> (555) 555-1234</Phone>
+		<Email> john-smith@mcneese.edu</Email>
+		<Academic>fr</Academic>
+		<HighSchool> Barbe High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Emily</FirstName>
+		<MiddleInit> J</MiddleInit>
+		<LastName> Johnson</LastName>
+		<StudentID>000234568</StudentID>
+		<Mailing> 456 Oak Street</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70602</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>2.8</GPA>
+		<Major>Mechanical Engineering</Major>
+		<Graduation> 05/2026</Graduation>
+		<Phone> (555) 555-5678</Phone>
+		<Email> emily-johnson@mcneese.edu</Email>
+		<Academic>so</Academic>
+		<HighSchool> LaGrange High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Michael</FirstName>
+		<MiddleInit> A</MiddleInit>
+		<LastName> Williams</LastName>
+		<StudentID>000234569</StudentID>
+		<Mailing> 789 Pine Lane</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70603</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.3</GPA>
+		<Major>Chemical Engineering</Major>
+		<Graduation> 05/2025</Graduation>
+		<Phone> (555) 555-9012</Phone>
+		<Email> michael-williams@mcneese.edu</Email>
+		<Academic>jr</Academic>
+		<HighSchool> Sam Houston High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Sarah</FirstName>
+		<MiddleInit> L</MiddleInit>
+		<LastName> Davis</LastName>
+		<StudentID>000234570</StudentID>
+		<Mailing> 101 Maple Drive</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70601</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.9</GPA>
+		<Major>Computer Engineering</Major>
+		<Graduation> 05/2024</Graduation>
+		<Phone> (555) 555-3456</Phone>
+		<Email> sarah-davis@mcneese.edu</Email>
+		<Academic>sr</Academic>
+		<HighSchool> Sulphur High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Robert</FirstName>
+		<MiddleInit> P</MiddleInit>
+		<LastName> Brown</LastName>
+		<StudentID>000234571</StudentID>
+		<Mailing> 202 Elm Street</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70605</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3</GPA>
+		<Major>Computer Science</Major>
+		<Graduation> 05/2024</Graduation>
+		<Phone> (555) 555-6789</Phone>
+		<Email> robert-brown@mcneese.edu</Email>
+		<Academic>sr</Academic>
+		<HighSchool> Barbe High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Olivia</FirstName>
+		<MiddleInit> K</MiddleInit>
+		<LastName> Miller</LastName>
+		<StudentID>000234572</StudentID>
+		<Mailing> 303 Cedar Avenue</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70605</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.7</GPA>
+		<Major>Electrical Engineering</Major>
+		<Graduation> 05/2027</Graduation>
+		<Phone> (555) 555-1234</Phone>
+		<Email> olivia-miller@mcneese.edu</Email>
+		<Academic>fr</Academic>
+		<HighSchool> LaGrange High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>David</FirstName>
+		<MiddleInit> S</MiddleInit>
+		<LastName> Jones</LastName>
+		<StudentID>000234573</StudentID>
+		<Mailing> 404 Willow Lane</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70606</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>2.9</GPA>
+		<Major>Mechanical Engineering</Major>
+		<Graduation> 05/2026</Graduation>
+		<Phone> (555) 555-5678</Phone>
+		<Email> david-jones@mcneese.edu</Email>
+		<Academic>so</Academic>
+		<HighSchool> Sam Houston High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Sophia</FirstName>
+		<MiddleInit> D</MiddleInit>
+		<LastName> Anderson</LastName>
+		<StudentID>000234574</StudentID>
+		<Mailing> 505 Oak Street</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70607</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.5</GPA>
+		<Major>Chemical Engineering</Major>
+		<Graduation> 05/2025</Graduation>
+		<Phone> (555) 555-9012</Phone>
+		<Email> sophia-anderson@mcneese.edu</Email>
+		<Academic>jr</Academic>
+		<HighSchool> Sulphur High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Ethan</FirstName>
+		<MiddleInit> B</MiddleInit>
+		<LastName> Thomas</LastName>
+		<StudentID>000234575</StudentID>
+		<Mailing> 606 Pine Drive</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70607</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>2.6</GPA>
+		<Major>Computer Engineering</Major>
+		<Graduation> 05/2024</Graduation>
+		<Phone> (555) 555-3456</Phone>
+		<Email> ethan-thomas@mcneese.edu</Email>
+		<Academic>sr</Academic>
+		<HighSchool> Barbe High School</HighSchool>
+	</record>
+	<record>
+		<FirstName>Chloe</FirstName>
+		<MiddleInit> H</MiddleInit>
+		<LastName> Wilson</LastName>
+		<StudentID>000234576</StudentID>
+		<Mailing> 707 Maple Lane</Mailing>
+		<State> Louisiana</State>
+		<City> Lake Charles</City>
+		<Zip>70605</Zip>
+		<Parish> Calcasieu</Parish>
+		<GPA>3.8</GPA>
+		<Major>Electrical Engineering</Major>
+		<Graduation> </Graduation>
+		<Phone> (555) 555-6789</Phone>
+		<Email> chloe-wilson@mcneese.edu</Email>
+		<Academic>grad</Academic>
+		<HighSchool> LaGrange High School</HighSchool>
+	</record>
+</studentdata>

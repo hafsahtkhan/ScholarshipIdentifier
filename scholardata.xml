@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scholardata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Scholarship>Louie D. Barbe, Jr. Scholarship</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.5</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Brask Inc Engineering Scholarship</Scholarship>
+		<Major>Mechanical Engineering</Major>
+		<GPA>2.7</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Gordon and Mary Cain Scholarship</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.75</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Gordon and Mary Cain Foundation Graduate</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>0</GPA>
+		<Classification>grad</Classification>
+	</record>
+	<record>
+		<Scholarship>CB&amp;I Lake Charles Scholarship</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.75</GPA>
+		<Classification>fr so jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Chandra "Peace" Memorial Engineering Scholarship</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>3</GPA>
+		<Classification>fr so jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>College of Engineering Scholarship</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.75</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Engineering Industrial Advisory Board #1</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.75</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Engineering Industrial Advisory Board #2</Scholarship>
+		<Major>Engineering</Major>
+		<GPA>2.75</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Edith and Adam Ledoux Memorial Scholarship</Scholarship>
+		<Major>Electrical Engineering</Major>
+		<GPA>2</GPA>
+		<Classification>jr</Classification>
+	</record>
+	<record>
+		<Scholarship>George Mutai Memorial ScholarshipElectrical Engineer</Scholarship>
+		<Major>Electrical Engineering</Major>
+		<GPA>3</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>CITGO Chemical Engineering Scholarship</Scholarship>
+		<Major>Chemical Engineering</Major>
+		<GPA>3</GPA>
+		<Classification>so jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Lyondell Basell Engineering Scholarship</Scholarship>
+		<Major>Chemical Engineering Mechanical Engineering</Major>
+		<GPA>2.5</GPA>
+		<Classification>so jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Sasol Engineering Excellence Scholarship</Scholarship>
+		<Major>Chemical Engineering Mechanical Engineering Electrical Engineering</Major>
+		<GPA>3</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Sasol Imperial Calcasieu Scholarship</Scholarship>
+		<Major>Chemical Engineering Mechanical Engineering Electrical Engineering</Major>
+		<GPA>3</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+	<record>
+		<Scholarship>Sasol Engineering Sophomore Scholarship</Scholarship>
+		<Major>Chemical Engineering Mechanical Engineering Electrical Engineering</Major>
+		<GPA>3.5</GPA>
+		<Classification>so</Classification>
+	</record>
+	<record>
+		<Scholarship>Sasol MSU CoE&amp;CS Scholarship</Scholarship>
+		<Major>Engineering Computer Science</Major>
+		<GPA>3</GPA>
+		<Classification>jr sr</Classification>
+	</record>
+</scholardata>
